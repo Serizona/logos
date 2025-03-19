@@ -1,0 +1,12 @@
+{
+    "models": [
+        {
+            "name": "omino3d.stl",
+            "path": "omino3d.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/logos/main/omino3d.stl",
+            "opacity": 1.0,
+            "color": "#1c5b6d",
+            }
+        }
+    ]
+}
